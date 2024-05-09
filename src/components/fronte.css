@@ -1,0 +1,9 @@
+.ok{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    margin: 10px;
+}
+.ok ,label ,input[type=text],input[type=submit]{
+    margin: 10px;
+}
